@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar :elevation="24" flat>
+  <v-app-bar :elevation="24" class="bg-primary">
     <v-app-bar-title>
       <v-btn icon="mdi-menu"></v-btn>
       <span class="ml-3">TOPIC</span>
